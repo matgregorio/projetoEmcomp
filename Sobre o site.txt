@@ -1,0 +1,21 @@
+Site escolhido: Loja de Discos
+Dupla: Mateus Gregório e Arthur
+
+O que cada um fez?
+Arthur - Trabalhou na produção do front-end, utilizando HTML,CSS e algumas funções do bootstrap. 
+Mateus - Trabalhou na produção do back-end, utilizando PHP e SQL. Foi o responsável por fazer o painel do Administrador e tornar o site mais dinâmico
+
+O que falta no site
+1 - O botão de pesquisa não funciona por falta de implementação no banco de dados
+2 - A central do usuário
+3 - Senha no painel do Administrador
+4 - Eu(Mateus) necessitava do id do disco que o usuário clicava. Quando usei o "name" do HTML, o botão de comprar foi substituído pelo id do disco. Creio que seja um problema de lógica que eu não consegui encontrar
+5 - Faltou implementar a função de calcular o frete. A mesma retornaria o valor do frete direto do site dos correios
+6 - Faltou a validação dos campos
+
+Projetos para o futuro
+Implementar todos os erros
+
+Tempo necessário
+10 dias no máximo para corrigir todos os erros
+
